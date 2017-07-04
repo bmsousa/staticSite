@@ -1,0 +1,12 @@
+baseURL = "http://bmsousa.netlify.com/"
+languageCode = "en-us"
+title = ".:: Bmsousa ::."
+[[menu.main]]
+	name="About"
+	url="/about/"
+[[menu.main]]
+	name="GitHub"
+	url="https://github.com/bmsousa/StaticSite"
+[[menu.main]]
+	name="Twitter"
+	url="https://twitter.com/bmsousa"
